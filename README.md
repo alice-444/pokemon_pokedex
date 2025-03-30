@@ -41,8 +41,8 @@ L'objectif est d'afficher les informations des Pokémon et d'explorer l'univers 
 #### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-pseudo/pokedex.git
-cd pokedex
+git clone https://github.com/alice-444/pokemon_pokedex.git
+cd pokemon_pokedex
 ```
 
 #### 2. Installer les dépendances
